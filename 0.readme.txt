@@ -1,0 +1,25 @@
+Wed May  1 08:29:35 WIT 2013
+
+# BACKGROUND
+
+For own internal purpose to check the  twitterStreamServer.
+
+Need to send a one-liner tweet periodically to the stream.
+
+In tribute to Warkop http://en.wikipedia.org/wiki/Warkop
+
+All materials scrapped respectably from :
+
+- https://www.google.com/search?q=warkop+quotes
+- http://id.wikipedia.org/wiki/Warkop
+
+Place the warkop-quotes & warkop-quotes.dat in /usr/share/games/fortune
+(or your own OS fortune directory)
+
+or randomly as your email signature, whatever
+
+*jangkrik bosss..*
+
+/@ialexs
+
+
