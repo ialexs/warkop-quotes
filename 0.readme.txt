@@ -2,6 +2,9 @@ Wed May  1 08:29:35 WIT 2013
 
 # BACKGROUND
 
+# notes - Seems like all youtube link has been termitated. don't ask me why.
+
+
 - For own internal purpose to check the  twitterStreamServer.
 - Need to send a one-liner tweet periodically to the stream.
 - And for fun for all the SSH login at server, using Fortune http://en.wikipedia.org/wiki/Fortune_(Unix)
